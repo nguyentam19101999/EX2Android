@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">English Vocabulary</string>
+    <string name="english">English</string>
+    <string name="vocabularies">Vocabularies</string>
+    <string name="test"><![CDATA[TEST]]></string>
+    <string name="practice">PRACTICE</string>
+    <string name="learn">LEARN</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+</resources>
